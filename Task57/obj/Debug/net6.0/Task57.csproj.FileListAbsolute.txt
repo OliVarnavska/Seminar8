@@ -1,0 +1,15 @@
+E:\GeekBrains\Seminar\Seminar8\Task57\bin\Debug\net6.0\Task57.exe
+E:\GeekBrains\Seminar\Seminar8\Task57\bin\Debug\net6.0\Task57.deps.json
+E:\GeekBrains\Seminar\Seminar8\Task57\bin\Debug\net6.0\Task57.runtimeconfig.json
+E:\GeekBrains\Seminar\Seminar8\Task57\bin\Debug\net6.0\Task57.dll
+E:\GeekBrains\Seminar\Seminar8\Task57\bin\Debug\net6.0\Task57.pdb
+E:\GeekBrains\Seminar\Seminar8\Task57\obj\Debug\net6.0\Task57.csproj.AssemblyReference.cache
+E:\GeekBrains\Seminar\Seminar8\Task57\obj\Debug\net6.0\Task57.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Seminar\Seminar8\Task57\obj\Debug\net6.0\Task57.AssemblyInfoInputs.cache
+E:\GeekBrains\Seminar\Seminar8\Task57\obj\Debug\net6.0\Task57.AssemblyInfo.cs
+E:\GeekBrains\Seminar\Seminar8\Task57\obj\Debug\net6.0\Task57.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Seminar\Seminar8\Task57\obj\Debug\net6.0\Task57.dll
+E:\GeekBrains\Seminar\Seminar8\Task57\obj\Debug\net6.0\refint\Task57.dll
+E:\GeekBrains\Seminar\Seminar8\Task57\obj\Debug\net6.0\Task57.pdb
+E:\GeekBrains\Seminar\Seminar8\Task57\obj\Debug\net6.0\Task57.genruntimeconfig.cache
+E:\GeekBrains\Seminar\Seminar8\Task57\obj\Debug\net6.0\ref\Task57.dll
